@@ -14,4 +14,6 @@ https://www.youtube.com/watch?v=2ogEn161w6U&list=PLcxJQNDatVKQyF23hKr_EAsX4QN-fU
 
 Practice if you want to!
 
+Exam Focus: Declaration, Inputs, Outputs, Data Types, Conditionals (IF) and Loops!
 
+Open notes, open collaboration next exam!
